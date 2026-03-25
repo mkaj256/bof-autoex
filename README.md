@@ -1,6 +1,6 @@
 # BOF-autoex: Automated Buffer Overflow Exploit Generator
 
-[Русская версия](README_RU.md) | [English](README.md)
+[Русская версия](README_RU.md) | [English version](README.md)
 
 > **ETHICAL DISCLAIMER**
 >
